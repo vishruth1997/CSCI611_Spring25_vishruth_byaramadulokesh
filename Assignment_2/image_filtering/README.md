@@ -77,6 +77,3 @@ The following image processing techniques are covered:
 - OpenCV
 - NumPy
 - Matplotlib
-
-## Author
-This project is intended for educational purposes to demonstrate basic image processing techniques using OpenCV.
