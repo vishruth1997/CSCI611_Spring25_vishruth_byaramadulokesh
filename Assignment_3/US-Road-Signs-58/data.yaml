@@ -1,0 +1,14 @@
+names:
+- regulatory
+- stop
+- warning
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: us-road-signs
+  url: https://universe.roboflow.com/tafila-technical-university-pyxx6/us-road-signs/dataset/58
+  version: 58
+  workspace: tafila-technical-university-pyxx6
+test: /home/vbyaramadulokesh/US-Road-Signs-58/test/images
+train: /home/vbyaramadulokesh/US-Road-Signs-58/train/images
+val: /home/vbyaramadulokesh/US-Road-Signs-58/valid/images
