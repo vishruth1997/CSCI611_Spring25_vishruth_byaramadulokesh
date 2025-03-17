@@ -4,7 +4,7 @@
 - Vishruth Byaramadu Lokesh
 - Zeba Samiya
 - Himanshu Singh Rao
-- Akshay
+- Akshay Aralikatti
 
 ## Project Overview
 This project utilizes the **YOLO (You Only Look Once) object detection** model to identify and classify objects in images. The dataset used consists of **U.S. road signs**, and the project includes training, validation, and testing of the YOLO model on this dataset.
