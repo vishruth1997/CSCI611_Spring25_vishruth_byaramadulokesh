@@ -1,4 +1,4 @@
-# YOLO Object Detection Project
+# YOLO Small Object Detection Project
 
 ## Group Members
 - Vishruth Byaramadu Lokesh
