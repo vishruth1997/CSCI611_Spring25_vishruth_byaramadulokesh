@@ -4,7 +4,7 @@
 This project utilizes the **YOLO v8 pre-trained model** to identify and classify objects in images. The dataset used for this trial is **Traffic Sign Detection (traffic-sign-detection-yolov8-10)**. The project includes training, validation, and testing of the YOLO model on this dataset.
 
 ## Training Trial
-- **Trail 3**: Trained for a specified number of epochs using the **YOLO v8 pre-trained model**.
+- **Trail 3**: In Trail 3 we trained the model on a different dataset containing only small images for a 40 epochs using the **YOLO v8 pre-trained model**.
 
 ## Repository Structure
 The repository consists of the following directories and files:
