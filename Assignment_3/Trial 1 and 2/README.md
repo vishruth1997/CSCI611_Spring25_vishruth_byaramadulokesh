@@ -5,8 +5,8 @@ This project utilizes the **YOLO (You Only Look Once) object detection** model t
 
 ## Training Trials
 Two training trials were conducted:
-- **Trail 1**: Trained for **30 epochs**.
-- **Trail 2**: Trained for **60 epochs**.
+- **Trial 1**: Trained for **30 epochs**.
+- **Trial 2**: Trained for **60 epochs**.
 
 ## Repository Structure
 The repository consists of the following directories and files:

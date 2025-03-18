@@ -14,10 +14,10 @@ We conducted multiple trials to refine the detection accuracy and experimented w
 ## Project Structure
 The repository consists of the following folders:
 
-- **Trail 1**
-- **Trail 2**
-- **Trail 3**
-- **Trail 4**
+- **Trial 1**
+- **Trial 2**
+- **Trial 3**
+- **Trial 4**
 
 Each trail represents different stages of the project with varying model configurations, training datasets, and hyperparameter tuning. For more detailed information about each trial, open the respective folder and read its `README.md` file.
 
@@ -25,16 +25,16 @@ Each trail represents different stages of the project with varying model configu
 
 ## Results
 
-### Trail 1 Results
+### Trial 1 Results
 ![Trail 1 Result](Result_images/Trail_1.png)
 
-### Trail 2 Results
+### Trial 2 Results
 ![Trail 2 Result](Result_images/Trail_2.png)
 
-### Trail 3 Results
+### Trial 3 Results
 ![Trail 3 Result](Result_images/Trail_3.png)
 
-### Trail 4 Results
+### Trial 4 Results
 ![Trail 4 Result](Result_images/Trail_4.gif)
 
 [Click on this to watch the Trail 4 full video](https://drive.google.com/file/d/165KVw9jAVlE1iifRTnoxAZFvMEMayve8/view)
