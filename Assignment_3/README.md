@@ -19,7 +19,7 @@ The repository consists of the following folders:
 - **Trial 3**
 - **Trial 4**
 
-Each trail represents different stages of the project with varying model configurations, training datasets, and hyperparameter tuning. For more detailed information about each trial, open the respective folder and read its `README.md` file.
+Each trial represents different stages of the project with varying model configurations, training datasets, and hyperparameter tuning. For more detailed information about each trial, open the respective folder and read its `README.md` file.
 
 ---
 
