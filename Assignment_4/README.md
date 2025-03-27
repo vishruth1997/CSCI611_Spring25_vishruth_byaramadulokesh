@@ -31,8 +31,8 @@ In this notebook, I:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-link>
-   cd <repo-folder>
+   git clone https://github.com/vishruth1997/CSCI611_Spring25_vishruth_byaramadulokesh.git
+   cd Assignment_4
    ```
 
 2. **Install required libraries**
